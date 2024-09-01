@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ordardan.github.io/sitemap.html.gz
+Sitemap: https://ordardan.github.io/app/sitemap.html.gz
+Sitemap: https://ordardan.github.io/assets/sitemap.html.gz
+Sitemap: https://ordardan.github.io/css/sitemap.html.gz
+Sitemap: https://ordardan.github.io/includes/sitemap.html.gz
+Sitemap: https://ordardan.github.io/item/sitemap.html.gz
+Sitemap: https://ordardan.github.io/src/sitemap.html.gz
